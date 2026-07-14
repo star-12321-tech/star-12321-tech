@@ -14,13 +14,13 @@ I specialize in robust backend architectures, optimized database design, and res
 
 ---
 
+### 🚀 Featured Repositories
+
 #### 🔹 [Realtime Socket App] (https://github.com/star-12321-tech/realtime-socket-app)
 A full-stack, bi-directional event-driven application featuring live data synchronization.
 * **Key Focus:** Real-time web socket state management, asynchronous event handling, and modern React interface design.
 * **Tech Stack:** Node.js, Express, Socket.io, React, JavaScript.
 
-
-### 🚀 Featured Repositories
 
 #### 🔹 [Laravel Task Engine] (https://github.com/star-12321-tech/laravel-task-engine)
 A robust, production-ready PHP background architecture built on Laravel. 
