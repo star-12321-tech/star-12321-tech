@@ -7,7 +7,7 @@ I specialize in robust backend architectures, optimized database design, and res
 
 ### 🛠️ Technical Stack & Ecosystem
 
-- **Frontend:** JavaScript (ES6+) | React | Vue | HTML5 | CSS3
+- **Frontend:** TypeScript, JavaScript (ES6+) | React | Vue | HTML5 | CSS3
 - **Backend:** PHP (Laravel) | Node.js (Express, Socket.io)
 - **Databases & Caching:** MySQL (Architecture, Query Optimization, Indexing)
 - **Tools & Workflows:** Git | RESTful APIs | JSON | Agile (Scrum/Kanban) | Jira | Slack
