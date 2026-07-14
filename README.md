@@ -1,4 +1,4 @@
-# Hi there, I'm star-12321-tech! 👋
+# Hi there, Kole! 👋
 
 I am a results-driven **Full-Stack Web Developer** with **4 years of commercial experience** designing, building, and deploying scalable web applications from scratch.
 I specialize in robust backend architectures, optimized database design, and responsive, fluid frontend interfaces.
@@ -39,7 +39,7 @@ A robust, production-ready PHP background architecture built on Laravel.
 
 ### 📬 Let's Connect!
 
-I am currently seeking a fully remote **Full-Stack, Backend, or Frontend Developer** position within a forward-thinking engineering team. **
-I am highly open to completing a technical test task** to directly demonstrate my architectural capabilities and code cleanliness.
+I am currently seeking a fully remote **Full-Stack, Backend, or Frontend Developer** position within a forward-thinking engineering team.
+**I am highly open to completing a technical test task** to directly demonstrate my architectural capabilities and code cleanliness.
 
 - **Email:** devstar12321@gmail.com
