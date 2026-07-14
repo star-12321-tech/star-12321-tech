@@ -1,4 +1,4 @@
-# Hi there, Kole! 👋
+# Hi there, I'm  Kole! 👋
 
 I am a results-driven **Full-Stack Web Developer** with **4 years of commercial experience** designing, building, and deploying scalable web applications from scratch.
 I specialize in robust backend architectures, optimized database design, and responsive, fluid frontend interfaces.
