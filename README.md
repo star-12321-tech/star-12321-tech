@@ -21,6 +21,10 @@ A full-stack, bi-directional event-driven application featuring live data synchr
 * **Key Focus:** Real-time web socket state management, asynchronous event handling, and modern React interface design.
 * **Tech Stack:** Node.js, Express, Socket.io, React, JavaScript.
 
+#### 🔹 [Real-Time Operations Kanban Dashboard](https://github.com/star-12321-tech/realtime-kanban-vue)
+A highly optimized, type-safe full-stack asynchronous workflow engine built to showcase complex frontend-backend synchronization.
+*   **Key Focus**: Strict TypeScript data contracts, decoupled socket client lifecycles, and centralized global reactive state management.
+*   **Tech Stack**: Vue 3 (Composition API), Strict TypeScript, Pinia Store Fabric, Node.js, Socket.io.
 
 #### 🔹 [Laravel Task Engine] (https://github.com/star-12321-tech/laravel-task-engine)
 A robust, production-ready PHP background architecture built on Laravel. 
