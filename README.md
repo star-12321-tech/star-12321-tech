@@ -47,3 +47,4 @@ I am currently seeking a fully remote **Full-Stack, Backend, or Frontend Develop
 **I am highly open to completing a technical test task** to directly demonstrate my architectural capabilities and code cleanliness.
 
 - **Email:** devstar12321@gmail.com
+- **Setka:** https://setka.ru/users/019f1db8-bd96-71c2-b8f5-8201b7c60c54
