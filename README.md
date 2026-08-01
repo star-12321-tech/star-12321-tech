@@ -49,4 +49,5 @@ I am currently seeking a fully remote **Full-Stack, Backend, or Frontend Develop
 - **Email:** devstar12321@gmail.com
 - **Portfolio:** https://full-stack-ri.netlify.app
 - **Setka:** https://setka.ru/users/019f1db8-bd96-71c2-b8f5-8201b7c60c54
+- **MAX:** https://max.ru/u/f9LHodD0cOLFoEhkxh9rBstzeiTpUYXJFPXDkKvPN7J4bRPCWi-10h40j0A
 - **VK:** https://vk.ru/id1119415841
